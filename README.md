@@ -1,4 +1,4 @@
-# Hi, I'm Dashy
+# Hi, I'm Arsal!
 
 Computer Science student at the University of Houston. I build software across systems, AI, and hardware, and I write about what I learn along the way.
 
