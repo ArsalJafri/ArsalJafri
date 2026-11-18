@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Dashy
 
-<!--
-**ArsalJafri/ArsalJafri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at the University of Houston. I build software across systems, AI, and hardware, and I write about what I learn along the way.
 
-Here are some ideas to get you started:
+### What I'm working on right now
+- **Building:** [My personal site](https://github.com/ArsalJafri/ArsalJafri.github.io): a home for my projects and writing
+- **Writing:** [arsaljafri.github.io/writing](https://arsaljafri.github.io/writing)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I also build software for businesses
+- Websites and web applications
+- E-commerce and ordering platforms
+- Cost estimators and quoting tools
+- Internal dashboards and workflow automation
+- AI integrations: assistants, document processing, and automation built on LLMs
+
+### Reach me
+[Website](https://arsaljafri.github.io)
